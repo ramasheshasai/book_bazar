@@ -32,7 +32,7 @@ Technologies Used :-
   
 Setup Instructions
   Clone the repository:
-  git clone https://github.com/your-username/BOOKBAZAR.git
+  git clone "My Repo"
   Set up your local server (XAMPP, WAMP, or LAMP) and ensure PHP and MySQL are running.
 
 Access the website:
