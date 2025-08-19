@@ -62,7 +62,3 @@ A simple online bookstore built with PHP and MySQL where users can browse, purch
 ## Contributing
 
 Feel free to fork this project and submit pull requests for improvements.
-
-## License
-
-This project is open source and available under the MIT License.
